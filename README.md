@@ -1,4 +1,4 @@
-go-whole-genome-estimates
+# go-whole-genome-estimates
 
 - a whole genome linear block estimation. 
 - block is defined as a single line for the aligned genome. 
